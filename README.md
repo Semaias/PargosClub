@@ -1,75 +1,70 @@
-<h1 align="center">Pargos Club</h1>
+# Getting Started with Create React App
 
-<p align="center">
-  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/jeffessongomes/stunning-disco?style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jeffessongomes/stunning-disco?style=for-the-badge">
-  <a href="https://github.com/jeffessongomes">
-    <img alt="Feito pelo Jeffesson Gomes" src="https://img.shields.io/badge/feito%20por-Jeffesson Gomes-%237519C1?style=for-the-badge">
-  </a>
-  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/jeffessongomes/stunning-disco?style=for-the-badge"/>
-<p>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<p align="center">
- <a href="#computer-sobre">Sobre</a> •
- <a href="#triangular_ruler-status-do-projeto">Status</a> •
- <a href="#dvd-executar-o-projeto">Executar</a> •
- <a href="#hammer-tecnologias">Tecnologias</a> •
- <a href="#boy-autor">Autor</a> •
- <a href="#page_facing_up-licença">Licença</a>
-</p>
+## Available Scripts
 
-## :computer: Sobre
+In the project directory, you can run:
 
-O projeto é um freelancer, que foi desenvolvido utilizando o ReactJS e o Boostrap
+### `yarn start`
 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
----
+### `yarn test`
 
-### :camera_flash: Demonstração [LINK](https://rits-challenge.herokuapp.com)
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-<p align="center">
-  <img alt="Pargos" src="./.github/assets/banner.png">
-</p>
+### `yarn build`
 
-<p align="center">
-	Você pode ver a demonstração nesse site (https://pargos-club.herokuapp.com/)
-</p>
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
----
-### :hammer: **Tecnologias**
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-As seguintes ferramentas foram utilizadas na construção do projeto:
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-- [React](https://reactjs.org)
-- [StyledComponents](https://styled-components.com)
-- Bootstrap
+### `yarn eject`
 
----
-### :triangular_ruler: **Status do Projeto**
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-<h4 align="center"> 
-	👨‍🏫 O site está finalizado !
-</h4>
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-### :dvd: **Executar o Projeto**
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-```bash
-# Clone este repositório
-$ git clone https://github.com/jeffessongomes/stunning-disco
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd stunnig-disco
+## Learn More
 
-# Instale as dependências
-$ npm install
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm start
-```
----
-### :page_facing_up: **Licença**
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-<br />
+### Code Splitting
 
-Este projeto é licenciado pelo [MIT](./LICENSE).
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `yarn build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
